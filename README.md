@@ -6,5 +6,6 @@ I have utilize my knowledge on javascript, css and html inorder to create this
 image slider.
 ```
 You can check the demo on [Js Image Slider(https://www.sonamgurung.me/js_slider)
-![ScreenShot](https://raw.github.com/{amarg236}/{Js-Image_Slider}/{master}/{images/sliderimg.jpg})
+  
+![ScreenShot](https://raw.github.com/{amarg236}/{Js-Image_Slider}/{master}/{images/sliderimg.png})
 
