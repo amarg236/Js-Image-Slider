@@ -7,5 +7,5 @@ image slider.
 ```
 You can check the demo on [Js Image Slider(https://www.sonamgurung.me/js_slider)
   
-![ScreenShot](https://raw.github.com/{amarg236}/{Js-Image_Slider}/{master}/{images/sliderimg.png})
+<img src="https://imgur.com/a/GZ3YB"/>
 
