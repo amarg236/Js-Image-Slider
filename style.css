@@ -1,0 +1,68 @@
+body{
+    background-color: #091b38;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: auto;
+}
+.title{
+  height: auto;
+  width: auto;
+  margin-top: 15px;
+  text-align: center;
+}
+.title > p{
+  font-size: 40;
+  color: #ffffff;
+  font-weight: bolder;
+  font-family: "Berlin Sans FB","serif";
+}
+.wrapper{
+  width: auto;
+  height: auto;
+  text-align: center;
+  margin-top: auto;
+
+}
+#image-slider-case{
+  border-color: #dddd;
+  width: 800px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#image{
+  border-radius: 10px 10px ;
+}
+#options{
+  width: 800px;
+  height: 15px;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 10px solid red;
+  border-top: 2px solid #ffffff;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px;
+}
+#options > a{
+  background-color: #406b96;
+  padding:15px;
+  margin-top:15px;
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+#options > a:active{
+  color: #ffffff;
+  text-decoration: none;
+}
+#options > a:visited{
+  text-decoration: non25
+}
+#options > a:hover{
+  text-decoration: none;
+  background-color: #274e96
+}
